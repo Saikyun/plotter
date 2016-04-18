@@ -1,0 +1,9 @@
+[package]
+name = "plotter"
+version = "0.1.0"
+authors = ["Jona <saikyun@gmail.com>"]
+
+[dependencies]
+rand = "*"
+sdl2 = "*"
+sdl2_image = "*"
